@@ -58,6 +58,11 @@
             <mxRectangle width="NaN" height="336" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cGdt6X82NRQ2e_tPWnpX-59" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;fontColor=#000000;rounded=1;arcSize=40;" vertex="1" parent="cGdt6X82NRQ2e_tPWnpX-32">
+          <mxGeometry width="NaN" height="336" as="geometry">
+            <mxRectangle width="NaN" height="336" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cGdt6X82NRQ2e_tPWnpX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGdt6X82NRQ2e_tPWnpX-37" target="cGdt6X82NRQ2e_tPWnpX-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -103,6 +108,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGdt6X82NRQ2e_tPWnpX-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGdt6X82NRQ2e_tPWnpX-53" target="cGdt6X82NRQ2e_tPWnpX-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cGdt6X82NRQ2e_tPWnpX-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cGdt6X82NRQ2e_tPWnpX-53" target="cGdt6X82NRQ2e_tPWnpX-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cGdt6X82NRQ2e_tPWnpX-53" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 8px;&quot;&gt;Melaukakan pengecekan data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
