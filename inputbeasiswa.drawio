@@ -150,19 +150,19 @@
         <mxCell id="EYh4BBkZvYkQw-OT5A3f-41" value="Kepala Sekolah" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="350" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EYh4BBkZvYkQw-OT5A3f-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EYh4BBkZvYkQw-OT5A3f-35" target="EYh4BBkZvYkQw-OT5A3f-41">
+        <mxCell id="EYh4BBkZvYkQw-OT5A3f-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EYh4BBkZvYkQw-OT5A3f-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="570" as="sourcePoint" />
-            <mxPoint x="730" y="480" as="targetPoint" />
+            <mxPoint x="695" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="695" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EYh4BBkZvYkQw-OT5A3f-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EYh4BBkZvYkQw-OT5A3f-37" target="EYh4BBkZvYkQw-OT5A3f-41">
+        <mxCell id="EYh4BBkZvYkQw-OT5A3f-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EYh4BBkZvYkQw-OT5A3f-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="560" as="sourcePoint" />
-            <mxPoint x="725" y="440" as="targetPoint" />
+            <mxPoint x="700" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="550" />
             </Array>
